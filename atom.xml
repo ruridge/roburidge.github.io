@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Rob Uridge]]></title>
+  <link href="http://roburidge.github.io/atom.xml" rel="self"/>
+  <link href="http://roburidge.github.io/"/>
+  <updated>2013-10-14T16:36:56+01:00</updated>
+  <id>http://roburidge.github.io/</id>
+  <author>
+    <name><![CDATA[Rob Uridge]]></name>
+    <email><![CDATA[robert@uridge.com]]></email>
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Hello world]]></title>
+    <link href="http://roburidge.github.io/blog/2013/10/14/hello-world/"/>
+    <updated>2013-10-14T15:38:00+01:00</updated>
+    <id>http://roburidge.github.io/blog/2013/10/14/hello-world</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+</feed>
